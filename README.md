@@ -1,6 +1,7 @@
 # SEP 740 - Deep Learning Project - Fake News Detection
 
 <b>Submitted By: </br>
+
 Soham Tushar Bodas (400376265) </br>
 Dhruv Sharma (400349850) </br>
 Jaisal Chauhan (400132665) </br>
