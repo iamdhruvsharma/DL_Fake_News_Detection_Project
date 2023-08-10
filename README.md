@@ -9,6 +9,8 @@ Karan Nandwani (400486887) </b>
 
 For running the code you need to sequentially execute the cells of the ipython notebook file attached.
 
+Steps:
+
 1. Download the notebook file (Fake_News_Detection_Project.ipynb).
 2. Download the dataset file (news.csv).
 3. Using your browser open google colab.
