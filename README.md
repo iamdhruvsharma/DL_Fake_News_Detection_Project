@@ -7,7 +7,7 @@ Dhruv Sharma (400349850) </br>
 Jaisal Chauhan (400132665) </br>
 Karan Nandwani (400486887) </b>
 
-For executing the code you need to run the cells sequentially in the ipython notebook file attached.
+For running the code you need to sequentially execute the cells of the ipython notebook file attached.
 
 1. Download the notebook file (Fake_News_Detection_Project.ipynb).
 2. Download the dataset file (news.csv).
